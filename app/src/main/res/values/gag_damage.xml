@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Trap-->
+    <integer name="banana">12</integer>
+    <integer name="rake">20</integer>
+    <integer name="marbles">35</integer>
+    <integer name="quicksand">50</integer>
+    <integer name="trapdoor">85</integer>
+    <integer name="tnt">180</integer>
+    <integer name="railroad">200</integer>
+
+    <!--Sound-->
+    <integer name="bikehorn">4</integer>
+    <integer name="whistle">7</integer>
+    <integer name="bugle">11</integer>
+    <integer name="aoogah">16</integer>
+    <integer name="trunk">21</integer>
+    <integer name="fog">50</integer>
+    <integer name="opera">90</integer>
+
+    <!--Throw-->
+    <integer name="cupcake">6</integer>
+    <integer name="fruit_slice">10</integer>
+    <integer name="cream_slice">17</integer>
+    <integer name="whole_fruit">27</integer>
+    <integer name="whole_cream">40</integer>
+    <integer name="birthday">100</integer>
+    <integer name="wedding">120</integer>
+
+    <!--Squirt-->
+    <integer name="squirting_flower">4</integer>
+    <integer name="glass_water">8</integer>
+    <integer name="squirt_gun">12</integer>
+    <integer name="seltzer">21</integer>
+    <integer name="hose">30</integer>
+    <integer name="cloud">80</integer>
+    <integer name="geyser">105</integer>
+
+    <!--Drop-->
+    <integer name="flower_pot">10</integer>
+    <integer name="sandbag">18</integer>
+    <integer name="anvil">30</integer>
+    <integer name="weight">45</integer>
+    <integer name="safe">70</integer>
+    <integer name="piano">170</integer>
+    <integer name="toontanic">180</integer>
+
+
+
+</resources>

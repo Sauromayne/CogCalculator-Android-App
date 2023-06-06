@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="hp_1">6</integer>
+    <integer name="hp_2">12</integer>
+    <integer name="hp_3">20</integer>
+    <integer name="hp_4">30</integer>
+    <integer name="hp_5">42</integer>
+    <integer name="hp_6">56</integer>
+    <integer name="hp_7">72</integer>
+    <integer name="hp_8">90</integer>
+    <integer name="hp_9">110</integer>
+    <integer name="hp_10">132</integer>
+    <integer name="hp_11">156</integer>
+    <integer name="hp_12">196</integer>
+    <integer name="hp_13">224</integer>
+    <integer name="hp_14">254</integer>
+    <integer name="hp_15">286</integer>
+    <integer name="hp_16">320</integer>
+    <integer name="hp_17">356</integer>
+    <integer name="hp_18">394</integer>
+    <integer name="hp_19">434</integer>
+    <integer name="hp_20">476</integer>
+</resources>

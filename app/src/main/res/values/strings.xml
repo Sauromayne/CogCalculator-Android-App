@@ -1,0 +1,139 @@
+<resources>
+    <string name="app_name">Cog Calculator</string>
+    <!--Selection Activity Strings-->
+    <string name="selection_title">COG LEVEL</string>
+
+    <!--PLACEHOLDER STRING-->
+    <string name="placeholder">0</string>
+
+    <!--Calculator Activity Strings-->
+    <string name="hp_title">HP:</string>
+    <string name="raw_title">Raw Damage:</string>
+    <string name="group_title">Group Bonus:</string>
+    <string name="lured_title">Lure Bonus:</string>
+    <string name="total_title">Total Damage:</string>
+    <string name="is_lured">Lured?</string>
+    <string name="is_organic">Organic?</string>
+    <string name="is_defeated">Defeated?</string>
+    <string name="gag_reset">Reset Gags</string>
+    <string name="new_cog">New Cog</string>
+    <string name="victory_defeat">Victory/Defeat</string>
+    <string name="damage_needed">You need xxx more damage.</string>
+
+
+    <!--Gags-->
+    <string name="trap_title">Trap:</string>
+    <string name="sound_title">Sound:</string>
+    <string name="throw_title">Throw:</string>
+    <string name="squirt_title">Squirt:</string>
+    <string name="drop_title">Drop:</string>
+    <string name="gag_choice_1">Gag 1</string>
+    <string name="gag_choice_2">Gag 2</string>
+    <string name="gag_choice_3">Gag 3</string>
+    <string name="gag_choice_4">Gag 4</string>
+
+    <string name="trap_1">Banana Peel</string>
+    <string name="trap_2">Rake</string>
+    <string name="trap_3">Marbles</string>
+    <string name="trap_4">Quicksand</string>
+    <string name="trap_5">Trapdoor</string>
+    <string name="trap_6">TNT</string>
+    <string name="trap_7">Railroad</string>
+
+    <string name="sound_1">Bike Horn</string>
+    <string name="sound_2">Whistle</string>
+    <string name="sound_3">Bugle</string>
+    <string name="sound_4">Aoogah</string>
+    <string name="sound_5">Trunk</string>
+    <string name="sound_6">Foghorn</string>
+    <string name="sound_7">Opera Singer</string>
+
+    <string name="throw_1">Cupcake</string>
+    <string name="throw_2">Fruit Slice</string>
+    <string name="throw_3">Cream Slice</string>
+    <string name="throw_4">Whole Fruit</string>
+    <string name="throw_5">Whole Cream</string>
+    <string name="throw_6">Birthday Cake</string>
+    <string name="throw_7">Wedding Cake</string>
+
+    <string name="squirt_1">Squirting Flower</string>
+    <string name="squirt_2">Glass of Water</string>
+    <string name="squirt_3">Squirt Gun</string>
+    <string name="squirt_4">Seltzer</string>
+    <string name="squirt_5">Fire Hose</string>
+    <string name="squirt_6">Storm Cloud</string>
+    <string name="squirt_7">Geyser</string>
+
+    <string name="drop_1">Flower Pot</string>
+    <string name="drop_2">Sandbag</string>
+    <string name="drop_3">Anvil</string>
+    <string name="drop_4">Big Weight</string>
+    <string name="drop_5">Safe</string>
+    <string name="drop_6">Piano</string>
+    <string name="drop_7">Toontanic</string>
+
+    <!--Gag Damage Values-->
+    <string name="banana_dmg">12</string>
+    <string name="rake_dmg">20</string>
+    <string name="marbles_dmg">35</string>
+    <string name="quicksand_dmg">50</string>
+    <string name="trapdoor_dmg">85</string>
+    <string name="tnt_dmg">180</string>
+    <string name="railroad_dmg">200</string>
+
+    <string name="bikehorn_dmg">4</string>
+    <string name="whistle_dmg">7</string>
+    <string name="bugle_dmg">11</string>
+    <string name="aoogah_dmg">16</string>
+    <string name="trunk_dmg">21</string>
+    <string name="fog_dmg">50</string>
+    <string name="opera_dmg">90</string>
+
+    <string name="cupcake_dmg">6</string>
+    <string name="fruit_slice_dmg">10</string>
+    <string name="cream_slice_dmg">17</string>
+    <string name="whole_fruit_dmg">27</string>
+    <string name="whole_cream_dmg">40</string>
+    <string name="bday_dmg">100</string>
+    <string name="wedding_dmg">120</string>
+
+    <string name="squirt_flower_dmg">4</string>
+    <string name="glass_water_dmg">8</string>
+    <string name="squirt_gun_dmg">12</string>
+    <string name="seltzer_dmg">21</string>
+    <string name="hose_dmg">30</string>
+    <string name="cloud_dmg">80</string>
+    <string name="geyser_dmg">105</string>
+
+    <string name="flower_pot_dmg">10</string>
+    <string name="sandbag_dmg">18</string>
+    <string name="anvil_dmg">30</string>
+    <string name="weight_dmg">45</string>
+    <string name="safe_dmg">70</string>
+    <string name="piano_dmg">170</string>
+    <string name="toontanic_dmg">180</string>
+
+    <!--COG LEVELS-->
+    <string name="hp_1">6</string>
+    <string name="hp_2">12</string>
+    <string name="hp_3">20</string>
+    <string name="hp_4">30</string>
+    <string name="hp_5">42</string>
+    <string name="hp_6">56</string>
+    <string name="hp_7">72</string>
+    <string name="hp_8">90</string>
+    <string name="hp_9">110</string>
+    <string name="hp_10">132</string>
+    <string name="hp_11">156</string>
+    <string name="hp_12">196</string>
+    <string name="hp_13">224</string>
+    <string name="hp_14">254</string>
+    <string name="hp_15">286</string>
+    <string name="hp_16">320</string>
+    <string name="hp_17">356</string>
+    <string name="hp_18">394</string>
+    <string name="hp_19">434</string>
+    <string name="hp_20">476</string>
+
+
+</resources>
